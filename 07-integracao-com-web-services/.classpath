@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="livraria-ejb-alura/src"/>
-	<classpathentry kind="lib" path="livraria-ejb-alura/resources/mysql/main/mysql-connector-java-5.1.45-bin.jar"/>
-	<classpathentry kind="lib" path="livraria-ejb-alura/WebContent/WEB-INF/lib/primefaces-4.0.jar"/>
-	<classpathentry kind="output" path="livraria-ejb-alura/build/classes"/>
-</classpath>
